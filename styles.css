@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.main-div{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.box1{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.box2{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+.box3{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
