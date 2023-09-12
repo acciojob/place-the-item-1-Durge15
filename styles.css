@@ -1,9 +1,13 @@
 
 /* Your CSS Code here. */
-.main-div{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
+}
+.item{
+	
+	font-size:30px;
 }
 .box1{
 	width:100px;
@@ -13,6 +17,7 @@
 .box2{
 	width:100px;
 	height:100px;
+     
 	background-color:blue;
 }
 .box3{
